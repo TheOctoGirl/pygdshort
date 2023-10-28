@@ -8,4 +8,4 @@ pygdshort is a python library for shortening URLs using the is.gd API.
 
 ## Usage
 
-For usage see the [wiki](https://github.com/TheOctoGirl/pygdshort/wiki).
+For usage see the [wiki](https://github.com/TheOctoGirl/pygdshort/wiki/Usage).
