@@ -21,3 +21,4 @@ dependencies = [
 [project.urls]
 "Homepage" = "https://github.com/TheOctoGirl/pygdshort"
 "Bug Tracker" = "https://github.com/TheOctoGirl/pygdshort/issues"
+"Documentation" = "https://github.com/TheOctoGirl/pygdshort/wiki"
