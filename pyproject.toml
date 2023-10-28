@@ -17,6 +17,8 @@ dependencies = [
     "requests>=2.31.0"
 ]
 
+[project.scripts]
+"pygdshort" = "pygdshort:cli"
 
 [project.urls]
 "Homepage" = "https://github.com/TheOctoGirl/pygdshort"
